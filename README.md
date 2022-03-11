@@ -1,4 +1,3 @@
-<html>
 <h1 align="center">Hi 👋, I'm Prabhat Singh</h1>
 <h3 align="center">Solution Architect with 12 years of experience in Telecom and IT domains. Currently focused on the Cloud and DevOps skills.</h3>
 
@@ -26,5 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhatsingh014&show_icons=true&locale=en" alt="prabhatsingh014" /></p>
 
-<p style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatsingh014&" alt="prabhatsingh014" /></p>
-</html>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatsingh014&" alt="prabhatsingh014" /></p>
