@@ -27,4 +27,4 @@
 
 <p><img vertical-align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatsingh014&" alt="prabhatsingh014" /></p>
 
-<p>Credits: <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GH Profile Readme Generator BY</a> <a href="https://github.com/rahuldkjain">Rahul Jain</a></p>
+<p>Credits: <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GH Profile Readme Generator</a> By <a href="https://github.com/rahuldkjain">Rahul Jain</a></p>
