@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatsingh014" alt="prabhatsingh014" /></a> </p>
 
-<li style="list-style-image: url(images/checked.png)" align="center">🔭 I’m currently working on <a href="https://prabhatsingh014.github.io/">building up my website.</a></li>
+<li style="list-style-image: url(images/checked.png); width=40%; height=40%" align="center">🔭 I’m currently working on <a href="https://prabhatsingh014.github.io/">building up my website.</a></li>
 
 <li align="center">🌱 I’m currently learning AWS, Helm, Istio, HTML</li>
 
