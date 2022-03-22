@@ -10,9 +10,9 @@
 
 <p align="center">:white_check_mark: Apart from that, I have developed interest in solving performance based tasks on KodeKloud engineer (current level - DevOps Engineer) using skills such as Linux, Ansible, Puppet, Kubernetes, Docker, Git etc.</p>
 
-<p align="center">:white_check_mark: Trying my hands on competitive programming skills, starting with shell scripting, on Hacker Rank.</p>
-
 <p align="center">:white_check_mark: I’m currently learning AWS (personal interest in Cloud Technology), Helm & Istio (project requirements). Willing to learn a little bit of frontend development now which is born out of the website preparation tasks.</p>
+
+<p align="center">:white_check_mark: Trying my hands on competitive programming skills, starting with shell scripting, on Hacker Rank.</p>
 
 <p align="center">💬 Ask me about Linux, Ansible, GitLab, Docker, Kubernetes, Messaging, VAS, IMS</p>
 
