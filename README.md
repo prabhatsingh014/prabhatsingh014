@@ -28,4 +28,6 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatsingh014&" alt="prabhatsingh014" /></p>
 
-<p align="center">Credits: <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GH Profile Readme Generator</a> By <a href="https://github.com/rahuldkjain">Rahul Jain</a></p>
+<p align="center">:copyright: Credits: :copyright: </p> 
+<p align="center"><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GH Profile Readme Generator</a> By <a href="https://github.com/rahuldkjain">Rahul Jain</a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy/">GH Profile Trophy</a> By <a href="https://github.com/ryo-ma">Ryota Sakamoto</a></p>
