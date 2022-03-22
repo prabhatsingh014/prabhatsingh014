@@ -6,17 +6,17 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatsingh014" alt="prabhatsingh014" /></a> </p>
 
-<li style="width=40%; height=40%" align="center"> :ballot_box_with_check: I’m currently working on <a href="https://prabhatsingh014.github.io/">building up my website</a>, also working on a website (Wordpress) to showcase the photographs I clicked.</li>
+<p align="center"> :white_check_mark: I’m currently working on <a href="https://prabhatsingh014.github.io/">building up my website</a>, also working on a website (Wordpress) to showcase the photographs I clicked.</p>
 
-<li style="width=40%; height=40%" align="center">🔭 Apart from that, I have developed interest in solving performance based tasks on KodeKloud engineer (current level - DevOps Engineer) using skills such as Linux, Ansible, Puppet, Kubernetes, Docker, Git etc.</li>
+<p align="center">:white_check_mark: Apart from that, I have developed interest in solving performance based tasks on KodeKloud engineer (current level - DevOps Engineer) using skills such as Linux, Ansible, Puppet, Kubernetes, Docker, Git etc.</p>
 
-<li style="width=40%; height=40%" align="center">🔭 Apart from that, I have developed interest in solving performance based tasks on KodeKloud engineer (current level - DevOps Engineer) using skills such as Linux, Ansible, Puppet, Kubernetes, Docker, Git etc.</li>
+<p align="center">:white_check_mark: Trying my hands on competitive programming skills, starting with shell scripting, on Hacker Rank.</p>
 
-<li align="center">🌱 I’m currently learning AWS (personal interest in Cloud Technology), Helm & Istio (project requirements). Willing to learn a little bit of frontend development now which is born out of the website preparation tasks.</li>
+<p align="center">:white_check_mark: I’m currently learning AWS (personal interest in Cloud Technology), Helm & Istio (project requirements). Willing to learn a little bit of frontend development now which is born out of the website preparation tasks.</p>
 
-<li align="center">💬 Ask me about Linux, Ansible, GitLab, Docker, Kubernetes, Messaging, VAS, IMS</li>
+<p align="center">💬 Ask me about Linux, Ansible, GitLab, Docker, Kubernetes, Messaging, VAS, IMS</p>
 
-<li align="center">📫 How to reach me <a href="mailto:prabhatsingh014@gmail.com">prabhatsingh014@gmail.com</li>
+<p align="center">📫 How to reach me <a href="mailto:prabhatsingh014@gmail.com">prabhatsingh014@gmail.com</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
