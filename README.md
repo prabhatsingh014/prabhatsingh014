@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://media.giphy.com/media/bAplZhiLAsNnG/giphy.gif" alt="prabhatsingh014" /> </p>
 <h1 align="center">Hi 👋, I'm Prabhat Singh</h1>
-<h3 align="center">Solution Architect with 12 years of experience in Telecom and IT domains. Currently working on my Cloud and DevOps skills.</h3>
+<h3 align="center">Solution Architect with 12+ years of experience in Telecom and IT domains. Currently working on my Cloud and DevOps skills.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prabhatsingh014&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatsingh014" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prabhatsingh014&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatsingh014" /> <img src="https://badges.pufler.dev/commits/monthly/prabhatsingh014" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatsingh014" alt="prabhatsingh014" /></a> </p>
 
