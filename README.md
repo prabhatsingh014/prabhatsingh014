@@ -1,11 +1,16 @@
+<p align="center"> <img src="https://media.giphy.com/media/bAplZhiLAsNnG/giphy.gif" alt="prabhatsingh014" /> </p>
 <h1 align="center">Hi 👋, I'm Prabhat Singh</h1>
-<h3 align="center">Solution Architect with 12 years of experience in Telecom and IT domains. Currently focused on the Cloud and DevOps skills.</h3>
+<h3 align="center">Solution Architect with 12 years of experience in Telecom and IT domains. Currently working on my Cloud and DevOps skills.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabhatsingh014&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatsingh014" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatsingh014" alt="prabhatsingh014" /></a> </p>
 
-<li style="list-style-image: url(images/checked.png); width=40%; height=40%" align="center">🔭 I’m currently working on <a href="https://prabhatsingh014.github.io/">building up my website</a>, also working on a website (Wordpress) to showcase the photographs I clicked. Apart from that, I have developed interest in solving performance based tasks on KodeKloud engineer (current level - DevOps Engineer) using skills such as Linux, Ansible, Puppet, Kubernetes, Docker, Git etc.</li>
+<li style="width=40%; height=40%" align="center">🔭 I’m currently working on <a href="https://prabhatsingh014.github.io/">building up my website</a>, also working on a website (Wordpress) to showcase the photographs I clicked.</li>
+
+<li style="width=40%; height=40%" align="center">🔭 Apart from that, I have developed interest in solving performance based tasks on KodeKloud engineer (current level - DevOps Engineer) using skills such as Linux, Ansible, Puppet, Kubernetes, Docker, Git etc.</li>
+
+<li style="width=40%; height=40%" align="center">🔭 Apart from that, I have developed interest in solving performance based tasks on KodeKloud engineer (current level - DevOps Engineer) using skills such as Linux, Ansible, Puppet, Kubernetes, Docker, Git etc.</li>
 
 <li align="center">🌱 I’m currently learning AWS (personal interest in Cloud Technology), Helm & Istio (project requirements). Willing to learn a little bit of frontend development now which is born out of the website preparation tasks.</li>
 
