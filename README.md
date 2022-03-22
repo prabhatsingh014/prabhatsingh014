@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatsingh014" alt="prabhatsingh014" /></a> </p>
 
-<li style="width=40%; height=40%" align="center">🔭 I’m currently working on <a href="https://prabhatsingh014.github.io/">building up my website</a>, also working on a website (Wordpress) to showcase the photographs I clicked.</li>
+<li style="width=40%; height=40%" align="center"> :ballot_box_with_check: I’m currently working on <a href="https://prabhatsingh014.github.io/">building up my website</a>, also working on a website (Wordpress) to showcase the photographs I clicked.</li>
 
 <li style="width=40%; height=40%" align="center">🔭 Apart from that, I have developed interest in solving performance based tasks on KodeKloud engineer (current level - DevOps Engineer) using skills such as Linux, Ansible, Puppet, Kubernetes, Docker, Git etc.</li>
 
