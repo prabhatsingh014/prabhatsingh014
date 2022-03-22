@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabhatsingh014&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatsingh014" /> <img src="https://badges.pufler.dev/commits/monthly/prabhatsingh014" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatsingh014" alt="prabhatsingh014" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatsingh014&theme=onedark" alt="prabhatsingh014" /></a> </p>
 
 <p align="center"> :white_check_mark: I’m currently working on <a href="https://prabhatsingh014.github.io/">building up my resume</a>, also working on a website using Wordpress to showcase the photographs I clicked.</p>
 
