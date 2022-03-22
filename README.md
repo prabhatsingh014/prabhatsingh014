@@ -29,4 +29,5 @@
 <h3 align="center">:copyright: Credits: :copyright: </h3> 
 <p align="center"><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GH Profile Readme Generator</a> By <a href="https://github.com/rahuldkjain">Rahul Jain</a><br />
 <a href="https://github.com/ryo-ma/github-profile-trophy/">GH Profile Trophy</a> By <a href="https://github.com/ryo-ma">Ryota Sakamoto</a><br />
-<a href="https://www.webfx.com/tools/emoji-cheat-sheet/">Emoji Cheet Sheet</a> By <a href="https://www.webfx.com/">WebFX</a></p>
+<a href="https://www.webfx.com/tools/emoji-cheat-sheet/">Emoji Cheet Sheet</a> By <a href="https://www.webfx.com/">WebFX</a><br />
+<a href="https://github.com/puf17640/git-badges">Commit Badge</a> By <a href="https://github.com/puf17640">Julian Pufler</a></p>
