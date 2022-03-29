@@ -8,7 +8,7 @@
 
 <p align="center"> :white_check_mark: I’m currently working on <a href="https://prabhatsingh014.github.io/">building up my resume</a>, also working on a website using Wordpress to showcase the photographs I clicked.</p>
 
-<p align="center">:white_check_mark: Apart from that, I have developed interest in solving performance based tasks on KodeKloud engineer (current level - DevOps Engineer) using skills such as Linux, Ansible, Puppet, Kubernetes, Docker, Git etc.</p>
+<p align="center">:white_check_mark: Apart from that, I have developed interest in solving performance based tasks on KodeKloud engineer (current level - Sr. DevOps Engineer) using skills such as Linux, Ansible, Puppet, Kubernetes, Docker, Git etc.</p>
 
 <p align="center">:white_check_mark: I’m currently learning AWS (personal interest in Cloud Technology), Helm & Istio (project requirements). Willing to learn a little bit of frontend development now which is born out of the website preparation tasks.</p>
 
