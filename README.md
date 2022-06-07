@@ -24,7 +24,7 @@
 <h3 align="center">:wrench: Languages and Tools: :wrench:</h3>
 <p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="images/aws.png" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="images/azure.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="images/bash.png" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="images/docker.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="images/git.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="images/kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="images/linux.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="images/ansible.png" alt="ansible" width="40" height="40"/> </a> </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatsingh014&" alt="prabhatsingh014" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatsingh014" alt="prabhatsingh014" /></p>
 
 <h3 align="center">:copyright: Credits: :copyright: </h3> 
 <p align="center"><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GH Profile Readme Generator</a> By <a href="https://github.com/rahuldkjain">Rahul Jain</a><br />
